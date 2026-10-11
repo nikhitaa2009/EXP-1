@@ -45,7 +45,7 @@ b.  KCL:
 
 #### a. KVL:
 
- <img width="600" height="400" alt="Screenshot 2026-10-10 143428" src="https://github.com/user-attachments/assets/2ca827b5-c0d2-4388-8693-ee74cc4621de" />
+<img width="600" height="400" alt="Screenshot 2026-10-11 174810" src="https://github.com/user-attachments/assets/e9400982-5a7e-49ec-a36f-fee22c47b478" />
 
 OUTPUT:
 
@@ -55,7 +55,8 @@ OUTPUT:
  
 #### b. KCL:
 
-<img width="600" height="500" alt="Screenshot 2026-10-10 143718" src="https://github.com/user-attachments/assets/a11789d9-32c0-4847-ad22-439d626dc41b" />
+<img width="600" height="500" alt="Screenshot 2026-10-11 181937" src="https://github.com/user-attachments/assets/af32a7c9-af1e-439e-9e47-4ff4f3fc251a" />
+
 
  OUTPUT:
 
